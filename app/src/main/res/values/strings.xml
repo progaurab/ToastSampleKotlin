@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToastSampleKotlin</string>
+    <string name="text_toast">Toast Overview</string>
+    <string name="default_toast">Default Toast</string>
+    <string name="custom_toast">Custom Toast</string>
+    <string name="top_left_toast">Toast at Top Left</string>
+</resources>
